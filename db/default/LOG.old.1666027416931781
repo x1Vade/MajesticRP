@@ -1,0 +1,97 @@
+2022/10/17-18:23:36.880865 63b8 RocksDB version: 6.10.0
+2022/10/17-18:23:36.880908 63b8 Git sha rocksdb_build_git_sha:@@GIT_SHA@@
+2022/10/17-18:23:36.880922 63b8 Compile date Aug 26 2022
+2022/10/17-18:23:36.881332 63b8 DB SUMMARY
+2022/10/17-18:23:36.882083 63b8 CURRENT file:  CURRENT
+2022/10/17-18:23:36.882097 63b8 IDENTITY file:  IDENTITY
+2022/10/17-18:23:36.882157 63b8 MANIFEST file:  MANIFEST-000001 size: 13 Bytes
+2022/10/17-18:23:36.882169 63b8 SST files in D:\DesireRP\db\default dir, Total Num: 0, files: 
+2022/10/17-18:23:36.882177 63b8 Write Ahead Log file in D:\DesireRP\db\default: 
+2022/10/17-18:23:36.882184 63b8                         Options.error_if_exists: 0
+2022/10/17-18:23:36.882190 63b8                       Options.create_if_missing: 1
+2022/10/17-18:23:36.882961 63b8                         Options.paranoid_checks: 1
+2022/10/17-18:23:36.882967 63b8                                     Options.env: 00000258E9531E90
+2022/10/17-18:23:36.882973 63b8                                      Options.fs: Legacy File System
+2022/10/17-18:23:36.882976 63b8                                Options.info_log: 00000258E95D6E50
+2022/10/17-18:23:36.882979 63b8                Options.max_file_opening_threads: 16
+2022/10/17-18:23:36.882982 63b8                              Options.statistics: 0000000000000000
+2022/10/17-18:23:36.882984 63b8                               Options.use_fsync: 0
+2022/10/17-18:23:36.882987 63b8                       Options.max_log_file_size: 0
+2022/10/17-18:23:36.882990 63b8                  Options.max_manifest_file_size: 1073741824
+2022/10/17-18:23:36.882992 63b8                   Options.log_file_time_to_roll: 0
+2022/10/17-18:23:36.882995 63b8                       Options.keep_log_file_num: 10
+2022/10/17-18:23:36.882998 63b8                    Options.recycle_log_file_num: 0
+2022/10/17-18:23:36.883000 63b8                         Options.allow_fallocate: 1
+2022/10/17-18:23:36.883003 63b8                        Options.allow_mmap_reads: 0
+2022/10/17-18:23:36.883005 63b8                       Options.allow_mmap_writes: 0
+2022/10/17-18:23:36.883008 63b8                        Options.use_direct_reads: 0
+2022/10/17-18:23:36.883011 63b8                        Options.use_direct_io_for_flush_and_compaction: 0
+2022/10/17-18:23:36.883013 63b8          Options.create_missing_column_families: 0
+2022/10/17-18:23:36.883016 63b8                              Options.db_log_dir: 
+2022/10/17-18:23:36.883018 63b8                                 Options.wal_dir: D:\DesireRP\db\default
+2022/10/17-18:23:36.883021 63b8                Options.table_cache_numshardbits: 6
+2022/10/17-18:23:36.883024 63b8                      Options.max_subcompactions: 1
+2022/10/17-18:23:36.883026 63b8                         Options.WAL_ttl_seconds: 0
+2022/10/17-18:23:36.883029 63b8                       Options.WAL_size_limit_MB: 0
+2022/10/17-18:23:36.883032 63b8                        Options.max_write_batch_group_size_bytes: 1048576
+2022/10/17-18:23:36.883034 63b8             Options.manifest_preallocation_size: 4194304
+2022/10/17-18:23:36.883037 63b8                     Options.is_fd_close_on_exec: 1
+2022/10/17-18:23:36.883039 63b8                   Options.advise_random_on_open: 1
+2022/10/17-18:23:36.883042 63b8                    Options.db_write_buffer_size: 0
+2022/10/17-18:23:36.883045 63b8                    Options.write_buffer_manager: 00000258D79DEB00
+2022/10/17-18:23:36.883048 63b8         Options.access_hint_on_compaction_start: 1
+2022/10/17-18:23:36.883050 63b8  Options.new_table_reader_for_compaction_inputs: 0
+2022/10/17-18:23:36.883053 63b8           Options.random_access_max_buffer_size: 1048576
+2022/10/17-18:23:36.883055 63b8                      Options.use_adaptive_mutex: 0
+2022/10/17-18:23:36.883058 63b8                            Options.rate_limiter: 0000000000000000
+2022/10/17-18:23:36.883061 63b8     Options.sst_file_manager.rate_bytes_per_sec: 0
+2022/10/17-18:23:36.883064 63b8                       Options.wal_recovery_mode: 2
+2022/10/17-18:23:36.883066 63b8                  Options.enable_thread_tracking: 0
+2022/10/17-18:23:36.883069 63b8                  Options.enable_pipelined_write: 0
+2022/10/17-18:23:36.883088 63b8                  Options.unordered_write: 0
+2022/10/17-18:23:36.883092 63b8         Options.allow_concurrent_memtable_write: 1
+2022/10/17-18:23:36.883095 63b8      Options.enable_write_thread_adaptive_yield: 1
+2022/10/17-18:23:36.883097 63b8             Options.write_thread_max_yield_usec: 100
+2022/10/17-18:23:36.883100 63b8            Options.write_thread_slow_yield_usec: 3
+2022/10/17-18:23:36.883103 63b8                               Options.row_cache: None
+2022/10/17-18:23:36.883105 63b8                              Options.wal_filter: None
+2022/10/17-18:23:36.883108 63b8             Options.avoid_flush_during_recovery: 0
+2022/10/17-18:23:36.883111 63b8             Options.allow_ingest_behind: 0
+2022/10/17-18:23:36.883113 63b8             Options.preserve_deletes: 0
+2022/10/17-18:23:36.883116 63b8             Options.two_write_queues: 0
+2022/10/17-18:23:36.883118 63b8             Options.manual_wal_flush: 0
+2022/10/17-18:23:36.883121 63b8             Options.atomic_flush: 0
+2022/10/17-18:23:36.883124 63b8             Options.avoid_unnecessary_blocking_io: 0
+2022/10/17-18:23:36.883126 63b8                 Options.persist_stats_to_disk: 0
+2022/10/17-18:23:36.883129 63b8                 Options.write_dbid_to_manifest: 0
+2022/10/17-18:23:36.883131 63b8                 Options.log_readahead_size: 0
+2022/10/17-18:23:36.883136 63b8                 Options.file_checksum_gen_factory: Unknown
+2022/10/17-18:23:36.883138 63b8                 Options.best_efforts_recovery: 0
+2022/10/17-18:23:36.883141 63b8             Options.max_background_jobs: 2
+2022/10/17-18:23:36.883144 63b8             Options.max_background_compactions: -1
+2022/10/17-18:23:36.883146 63b8             Options.avoid_flush_during_shutdown: 0
+2022/10/17-18:23:36.883149 63b8           Options.writable_file_max_buffer_size: 1048576
+2022/10/17-18:23:36.883152 63b8             Options.delayed_write_rate : 16777216
+2022/10/17-18:23:36.883154 63b8             Options.max_total_wal_size: 0
+2022/10/17-18:23:36.883157 63b8             Options.delete_obsolete_files_period_micros: 21600000000
+2022/10/17-18:23:36.883159 63b8                   Options.stats_dump_period_sec: 600
+2022/10/17-18:23:36.883162 63b8                 Options.stats_persist_period_sec: 600
+2022/10/17-18:23:36.883165 63b8                 Options.stats_history_buffer_size: 1048576
+2022/10/17-18:23:36.883168 63b8                          Options.max_open_files: -1
+2022/10/17-18:23:36.883170 63b8                          Options.bytes_per_sync: 0
+2022/10/17-18:23:36.883173 63b8                      Options.wal_bytes_per_sync: 0
+2022/10/17-18:23:36.883175 63b8                   Options.strict_bytes_per_sync: 0
+2022/10/17-18:23:36.883178 63b8       Options.compaction_readahead_size: 0
+2022/10/17-18:23:36.883181 63b8                  Options.max_background_flushes: -1
+2022/10/17-18:23:36.883183 63b8 Compression algorithms supported:
+2022/10/17-18:23:36.883427 63b8 	kZSTD supported: 0
+2022/10/17-18:23:36.883432 63b8 	kSnappyCompression supported: 0
+2022/10/17-18:23:36.883435 63b8 	kBZip2Compression supported: 0
+2022/10/17-18:23:36.883438 63b8 	kZlibCompression supported: 1
+2022/10/17-18:23:36.883440 63b8 	kLZ4Compression supported: 1
+2022/10/17-18:23:36.883443 63b8 	kXpressCompression supported: 0
+2022/10/17-18:23:36.883445 63b8 	kLZ4HCCompression supported: 1
+2022/10/17-18:23:36.883448 63b8 	kZSTDNotFinalCompression supported: 0
+2022/10/17-18:23:36.883712 63b8 Fast CRC32 supported: Not supported on x86
+2022/10/17-18:23:36.890552 63b8 [db\db_impl\db_impl.cc:401] Shutdown: canceling all background work
+2022/10/17-18:23:36.890599 63b8 [db\db_impl\db_impl.cc:577] Shutdown complete

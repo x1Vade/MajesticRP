@@ -1,0 +1,97 @@
+2022/08/01-13:21:51.141793 284c RocksDB version: 6.10.0
+2022/08/01-13:21:51.141863 284c Git sha rocksdb_build_git_sha:@@GIT_SHA@@
+2022/08/01-13:21:51.141891 284c Compile date May 25 2022
+2022/08/01-13:21:51.141915 284c DB SUMMARY
+2022/08/01-13:21:51.142655 284c CURRENT file:  CURRENT
+2022/08/01-13:21:51.142688 284c IDENTITY file:  IDENTITY
+2022/08/01-13:21:51.142764 284c MANIFEST file:  MANIFEST-000001 size: 13 Bytes
+2022/08/01-13:21:51.142785 284c SST files in D:\DesireRP\db\default dir, Total Num: 0, files: 
+2022/08/01-13:21:51.142802 284c Write Ahead Log file in D:\DesireRP\db\default: 000003.log size: 0 ; 
+2022/08/01-13:21:51.142821 284c                         Options.error_if_exists: 0
+2022/08/01-13:21:51.142840 284c                       Options.create_if_missing: 1
+2022/08/01-13:21:51.143798 284c                         Options.paranoid_checks: 1
+2022/08/01-13:21:51.143814 284c                                     Options.env: 000001AFAFAD4E00
+2022/08/01-13:21:51.143820 284c                                      Options.fs: Legacy File System
+2022/08/01-13:21:51.143825 284c                                Options.info_log: 000001AFB608FE30
+2022/08/01-13:21:51.143830 284c                Options.max_file_opening_threads: 16
+2022/08/01-13:21:51.143834 284c                              Options.statistics: 0000000000000000
+2022/08/01-13:21:51.143840 284c                               Options.use_fsync: 0
+2022/08/01-13:21:51.143844 284c                       Options.max_log_file_size: 0
+2022/08/01-13:21:51.143849 284c                  Options.max_manifest_file_size: 1073741824
+2022/08/01-13:21:51.143854 284c                   Options.log_file_time_to_roll: 0
+2022/08/01-13:21:51.143858 284c                       Options.keep_log_file_num: 10
+2022/08/01-13:21:51.143863 284c                    Options.recycle_log_file_num: 0
+2022/08/01-13:21:51.143868 284c                         Options.allow_fallocate: 1
+2022/08/01-13:21:51.143872 284c                        Options.allow_mmap_reads: 0
+2022/08/01-13:21:51.143877 284c                       Options.allow_mmap_writes: 0
+2022/08/01-13:21:51.143882 284c                        Options.use_direct_reads: 0
+2022/08/01-13:21:51.143887 284c                        Options.use_direct_io_for_flush_and_compaction: 0
+2022/08/01-13:21:51.143891 284c          Options.create_missing_column_families: 0
+2022/08/01-13:21:51.143896 284c                              Options.db_log_dir: 
+2022/08/01-13:21:51.143901 284c                                 Options.wal_dir: D:\DesireRP\db\default
+2022/08/01-13:21:51.143906 284c                Options.table_cache_numshardbits: 6
+2022/08/01-13:21:51.143910 284c                      Options.max_subcompactions: 1
+2022/08/01-13:21:51.143915 284c                         Options.WAL_ttl_seconds: 0
+2022/08/01-13:21:51.143920 284c                       Options.WAL_size_limit_MB: 0
+2022/08/01-13:21:51.143924 284c                        Options.max_write_batch_group_size_bytes: 1048576
+2022/08/01-13:21:51.143929 284c             Options.manifest_preallocation_size: 4194304
+2022/08/01-13:21:51.143934 284c                     Options.is_fd_close_on_exec: 1
+2022/08/01-13:21:51.143938 284c                   Options.advise_random_on_open: 1
+2022/08/01-13:21:51.143943 284c                    Options.db_write_buffer_size: 0
+2022/08/01-13:21:51.143948 284c                    Options.write_buffer_manager: 000001AFAF5E28B0
+2022/08/01-13:21:51.143952 284c         Options.access_hint_on_compaction_start: 1
+2022/08/01-13:21:51.143957 284c  Options.new_table_reader_for_compaction_inputs: 0
+2022/08/01-13:21:51.143962 284c           Options.random_access_max_buffer_size: 1048576
+2022/08/01-13:21:51.143967 284c                      Options.use_adaptive_mutex: 0
+2022/08/01-13:21:51.143972 284c                            Options.rate_limiter: 0000000000000000
+2022/08/01-13:21:51.143977 284c     Options.sst_file_manager.rate_bytes_per_sec: 0
+2022/08/01-13:21:51.143982 284c                       Options.wal_recovery_mode: 2
+2022/08/01-13:21:51.143986 284c                  Options.enable_thread_tracking: 0
+2022/08/01-13:21:51.144024 284c                  Options.enable_pipelined_write: 0
+2022/08/01-13:21:51.144031 284c                  Options.unordered_write: 0
+2022/08/01-13:21:51.144036 284c         Options.allow_concurrent_memtable_write: 1
+2022/08/01-13:21:51.144040 284c      Options.enable_write_thread_adaptive_yield: 1
+2022/08/01-13:21:51.144045 284c             Options.write_thread_max_yield_usec: 100
+2022/08/01-13:21:51.144057 284c            Options.write_thread_slow_yield_usec: 3
+2022/08/01-13:21:51.144063 284c                               Options.row_cache: None
+2022/08/01-13:21:51.144069 284c                              Options.wal_filter: None
+2022/08/01-13:21:51.144073 284c             Options.avoid_flush_during_recovery: 0
+2022/08/01-13:21:51.144078 284c             Options.allow_ingest_behind: 0
+2022/08/01-13:21:51.144083 284c             Options.preserve_deletes: 0
+2022/08/01-13:21:51.144087 284c             Options.two_write_queues: 0
+2022/08/01-13:21:51.144092 284c             Options.manual_wal_flush: 0
+2022/08/01-13:21:51.144096 284c             Options.atomic_flush: 0
+2022/08/01-13:21:51.144101 284c             Options.avoid_unnecessary_blocking_io: 0
+2022/08/01-13:21:51.144105 284c                 Options.persist_stats_to_disk: 0
+2022/08/01-13:21:51.144110 284c                 Options.write_dbid_to_manifest: 0
+2022/08/01-13:21:51.144115 284c                 Options.log_readahead_size: 0
+2022/08/01-13:21:51.144119 284c                 Options.file_checksum_gen_factory: Unknown
+2022/08/01-13:21:51.144124 284c                 Options.best_efforts_recovery: 0
+2022/08/01-13:21:51.144129 284c             Options.max_background_jobs: 2
+2022/08/01-13:21:51.144135 284c             Options.max_background_compactions: -1
+2022/08/01-13:21:51.144140 284c             Options.avoid_flush_during_shutdown: 0
+2022/08/01-13:21:51.144144 284c           Options.writable_file_max_buffer_size: 1048576
+2022/08/01-13:21:51.144149 284c             Options.delayed_write_rate : 16777216
+2022/08/01-13:21:51.144153 284c             Options.max_total_wal_size: 0
+2022/08/01-13:21:51.144158 284c             Options.delete_obsolete_files_period_micros: 21600000000
+2022/08/01-13:21:51.144163 284c                   Options.stats_dump_period_sec: 600
+2022/08/01-13:21:51.144167 284c                 Options.stats_persist_period_sec: 600
+2022/08/01-13:21:51.144172 284c                 Options.stats_history_buffer_size: 1048576
+2022/08/01-13:21:51.144176 284c                          Options.max_open_files: -1
+2022/08/01-13:21:51.144181 284c                          Options.bytes_per_sync: 0
+2022/08/01-13:21:51.144186 284c                      Options.wal_bytes_per_sync: 0
+2022/08/01-13:21:51.144194 284c                   Options.strict_bytes_per_sync: 0
+2022/08/01-13:21:51.144202 284c       Options.compaction_readahead_size: 0
+2022/08/01-13:21:51.144208 284c                  Options.max_background_flushes: -1
+2022/08/01-13:21:51.144213 284c Compression algorithms supported:
+2022/08/01-13:21:51.144220 284c 	kZSTD supported: 0
+2022/08/01-13:21:51.144225 284c 	kSnappyCompression supported: 0
+2022/08/01-13:21:51.144230 284c 	kBZip2Compression supported: 0
+2022/08/01-13:21:51.144235 284c 	kZlibCompression supported: 1
+2022/08/01-13:21:51.144240 284c 	kLZ4Compression supported: 1
+2022/08/01-13:21:51.144244 284c 	kXpressCompression supported: 0
+2022/08/01-13:21:51.144249 284c 	kLZ4HCCompression supported: 1
+2022/08/01-13:21:51.144253 284c 	kZSTDNotFinalCompression supported: 0
+2022/08/01-13:21:51.144264 284c Fast CRC32 supported: Not supported on x86
+2022/08/01-13:21:51.145684 284c [db\db_impl\db_impl.cc:401] Shutdown: canceling all background work
+2022/08/01-13:21:51.145759 284c [db\db_impl\db_impl.cc:577] Shutdown complete
