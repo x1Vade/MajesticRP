@@ -1,0 +1,21 @@
+[
+  {
+    "name": "VadeFTW",
+    "master": true,
+    "password_hash": "$2a$11$fxyyiGfMlqjaZPcd5/c3UOlpAVFND89DNhiyXBPT5QmS2SKmrKRma",
+    "providers": {
+      "citizenfx": {
+        "id": "VadeFTW",
+        "identifier": "fivem:3029333",
+        "data": {
+          "sub": "0a8ce908909b1a177eae7f1fae3c515c",
+          "nameid": "https://forum.cfx.re/internal/user/3029333",
+          "name": "VadeFTW",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/vadeftw/256/2059882_2.png",
+          "profile": "https://forum.cfx.re/u/VadeFTW"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
